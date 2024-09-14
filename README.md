@@ -1,0 +1,2 @@
+# StroboscopicPhotography
+基于视频提取频闪照片的MATLAB脚本
