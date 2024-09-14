@@ -180,7 +180,7 @@ function updatePlot(h, background, foregrounds)
     % result = foreground;
     % result(foreground == 0) = background(foreground == 0);
     result = multiplyBlending(foregrounds(index), background, linspace(0.1, 1.0, length(index)));
-    imwrite(result, 'res_trans.bmp'); % 保存结果图像
+    imwrite(result, 'res.bmp'); % 保存结果图像
 
     h.front.CData = foreground;
     h.res.CData = result;
