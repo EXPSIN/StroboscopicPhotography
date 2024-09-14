@@ -18,4 +18,8 @@
 ### 系统要求
 - 已在 MATLAB R2023b 和 Windows 11 操作系统上测试。
 
+## 操作界面
 ![figure](https://github.com/user-attachments/assets/590157ce-dadb-402d-b24e-d40ab9f263e9)
+
+## 频闪图像
+![image](https://github.com/user-attachments/assets/5268216a-bf72-4531-90a0-b1d60d82a2ad)
